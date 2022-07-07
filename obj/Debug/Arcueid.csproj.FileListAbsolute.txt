@@ -1,0 +1,14 @@
+D:\Project\Arcueid\bin\Debug\Arcueid.exe.config
+D:\Project\Arcueid\bin\Debug\Arcueid.exe
+D:\Project\Arcueid\bin\Debug\Arcueid.pdb
+D:\Project\Arcueid\obj\Debug\Arcueid.csproj.AssemblyReference.cache
+D:\Project\Arcueid\obj\Debug\MainWindow.g.cs
+D:\Project\Arcueid\obj\Debug\App.g.cs
+D:\Project\Arcueid\obj\Debug\Arcueid_MarkupCompile.cache
+D:\Project\Arcueid\obj\Debug\MainWindow.baml
+D:\Project\Arcueid\obj\Debug\Arcueid.g.resources
+D:\Project\Arcueid\obj\Debug\Arcueid.Properties.Resources.resources
+D:\Project\Arcueid\obj\Debug\Arcueid.csproj.GenerateResource.cache
+D:\Project\Arcueid\obj\Debug\Arcueid.csproj.CoreCompileInputs.cache
+D:\Project\Arcueid\obj\Debug\Arcueid.exe
+D:\Project\Arcueid\obj\Debug\Arcueid.pdb
